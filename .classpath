@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/json-simple-1.1.jar.zip"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/Downloads/servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/rmddesai/eclipse-workspace/Bridge/jars/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
